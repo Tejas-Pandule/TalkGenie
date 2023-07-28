@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TalkGenie" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/colorPrimary</item>
+         <item name="fontFamily">@font/poppins_regular</item>
+
+    </style>
+
+    <style name="Theme.TalkGenie" parent="Base.Theme.TalkGenie" />
+</resources>
