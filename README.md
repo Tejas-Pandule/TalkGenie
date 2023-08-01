@@ -1,11 +1,5 @@
 # TalkGenie- OpenAI-based Chatbot Android Application
 
-#Getting Started
-1. To use the OpenAI-based chatbot Android application, follow these steps:
-2. Install the APK: Download and install the APK file provided in the "Releases" section of this repository on your Android device.
-3. Open the Application: Launch the chatbot application on your Android device.
-4. Get Chatting: Use the chat interface to interact with the chatbot. Type your queries or use voice input to start a conversation.
-
 # Tech Stack Used:
 1. Android Studio
 2. Kotlin and XML
